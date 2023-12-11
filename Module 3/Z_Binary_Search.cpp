@@ -10,7 +10,6 @@ int main()
         cin>>a[i];
     }
     sort(a,a+n);
-
     while (q--)
     {
         int x;
